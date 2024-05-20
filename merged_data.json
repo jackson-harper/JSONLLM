@@ -1,0 +1,50 @@
+[
+  {
+    "GameType": "TicTacToe",
+    "Prompt": "ID 1",
+    "LLM1stPlayer": "gpt-4",
+    "LLM2ndPlayer": "mistral",
+    "WinRatio-1st": 0.5,
+    "WinRatio-2nd": "0.33",
+    "Wins-1st": 12,
+    "Wins-2nd": 8,
+    "Draws": 4,
+    "InvalidMovesRatio-1st": 0.05,
+    "InvalidMovesRatio-2nd": 0.03,
+    "TotalMoves-1st": 80,
+    "TotalMoves-2nd": 60,
+    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu, robert@gmail.com"
+  },
+  {
+    "GameType": "Connect Four",
+    "Prompt": "ID 2",
+    "LLM1stPlayer": "gemini",
+    "LLM2ndPlayer": "gpt4-o",
+    "WinRatio-1st": 0.5,
+    "WinRatio-2nd": 0.3,
+    "Wins-1st": 6,
+    "Wins-2nd": 4,
+    "Draws": 2,
+    "InvalidMovesRatio-1st": 0.05,
+    "InvalidMovesRatio-2nd": 0.03,
+    "TotalMoves-1st": 40,
+    "TotalMoves-2nd": 30,
+    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu"
+  },
+  {
+    "GameType": "Chess",
+    "Prompt": "ID 3",
+    "LLM1stPlayer": "llama3",
+    "LLM2ndPlayer": "llama2",
+    "WinRatio-1st": 0.47,
+    "WinRatio-2nd": 0.2,
+    "Wins-1st": 7,
+    "Wins-2nd": 3,
+    "Draws": 5,
+    "InvalidMovesRatio-1st": 0.1,
+    "InvalidMovesRatio-2nd": 0.5,
+    "TotalMoves-1st": 42,
+    "TotalMoves-2nd": 38,
+    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu"
+  }
+]
