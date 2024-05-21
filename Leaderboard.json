@@ -8,12 +8,15 @@
     "WinRatio-2nd": "0.33",
     "Wins-1st": 12,
     "Wins-2nd": 8,
+    "Disqualifications-1st": 1,
+    "Disqualifications-2nd": 2,
     "Draws": 4,
     "InvalidMovesRatio-1st": 0.05,
     "InvalidMovesRatio-2nd": 0.03,
     "TotalMoves-1st": 80,
     "TotalMoves-2nd": 60,
-    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu, robert@gmail.com"
+    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu, robert@gmail.com",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Connect Four",
@@ -24,12 +27,15 @@
     "WinRatio-2nd": 0.3,
     "Wins-1st": 6,
     "Wins-2nd": 4,
+    "Disqualifications-1st": 0,
+    "Disqualifications-2nd": 1,
     "Draws": 2,
     "InvalidMovesRatio-1st": 0.05,
     "InvalidMovesRatio-2nd": 0.03,
     "TotalMoves-1st": 40,
     "TotalMoves-2nd": 30,
-    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu"
+    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Chess",
@@ -40,12 +46,15 @@
     "WinRatio-2nd": 0.2,
     "Wins-1st": 7,
     "Wins-2nd": 3,
+    "Disqualifications-1st": 1,
+    "Disqualifications-2nd": 0,
     "Draws": 5,
     "InvalidMovesRatio-1st": 0.1,
     "InvalidMovesRatio-2nd": 0.5,
     "TotalMoves-1st": 42,
     "TotalMoves-2nd": 38,
-    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu"
+    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Checkers",
@@ -56,12 +65,15 @@
     "WinRatio-2nd": 0.3,
     "Wins-1st": 9,
     "Wins-2nd": 5,
+    "Disqualifications-1st": 2,
+    "Disqualifications-2nd": 1,
     "Draws": 4,
     "InvalidMovesRatio-1st": 0.04,
     "InvalidMovesRatio-2nd": 0.06,
     "TotalMoves-1st": 45,
     "TotalMoves-2nd": 50,
-    "ProviderEmail": "jharper@floridapoly.edu, robert@gmail.com"
+    "ProviderEmail": "jharper@floridapoly.edu, robert@gmail.com",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Go",
@@ -72,12 +84,15 @@
     "WinRatio-2nd": 0.5,
     "Wins-1st": 4,
     "Wins-2nd": 5,
+    "Disqualifications-1st": 1,
+    "Disqualifications-2nd": 1,
     "Draws": 1,
     "InvalidMovesRatio-1st": 0.03,
     "InvalidMovesRatio-2nd": 0.02,
     "TotalMoves-1st": 25,
     "TotalMoves-2nd": 30,
-    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu"
+    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Backgammon",
@@ -88,12 +103,15 @@
     "WinRatio-2nd": 0.35,
     "Wins-1st": 11,
     "Wins-2nd": 7,
+    "Disqualifications-1st": 0,
+    "Disqualifications-2nd": 2,
     "Draws": 2,
     "InvalidMovesRatio-1st": 0.02,
     "InvalidMovesRatio-2nd": 0.04,
     "TotalMoves-1st": 55,
     "TotalMoves-2nd": 50,
-    "ProviderEmail": "robert@gmail.com"
+    "ProviderEmail": "robert@gmail.com",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Othello",
@@ -104,12 +122,15 @@
     "WinRatio-2nd": 0.3,
     "Wins-1st": 8,
     "Wins-2nd": 4,
+    "Disqualifications-1st": 1,
+    "Disqualifications-2nd": 1,
     "Draws": 3,
     "InvalidMovesRatio-1st": 0.04,
     "InvalidMovesRatio-2nd": 0.07,
     "TotalMoves-1st": 40,
     "TotalMoves-2nd": 45,
-    "ProviderEmail": "otopsakal@floridapoly.edu"
+    "ProviderEmail": "otopsakal@floridapoly.edu",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Scrabble",
@@ -120,12 +141,15 @@
     "WinRatio-2nd": 0.2,
     "Wins-1st": 10,
     "Wins-2nd": 3,
+    "Disqualifications-1st": 2,
+    "Disqualifications-2nd": 0,
     "Draws": 2,
     "InvalidMovesRatio-1st": 0.02,
     "InvalidMovesRatio-2nd": 0.06,
     "TotalMoves-1st": 35,
     "TotalMoves-2nd": 40,
-    "ProviderEmail": "jharper@floridapoly.edu"
+    "ProviderEmail": "jharper@floridapoly.edu",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Mancala",
@@ -136,12 +160,15 @@
     "WinRatio-2nd": 0.4,
     "Wins-1st": 6,
     "Wins-2nd": 5,
+    "Disqualifications-1st": 1,
+    "Disqualifications-2nd": 2,
     "Draws": 3,
     "InvalidMovesRatio-1st": 0.03,
     "InvalidMovesRatio-2nd": 0.05,
     "TotalMoves-1st": 40,
     "TotalMoves-2nd": 35,
-    "ProviderEmail": "robert@gmail.com"
+    "ProviderEmail": "robert@gmail.com",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Battleship",
@@ -152,12 +179,15 @@
     "WinRatio-2nd": 0.35,
     "Wins-1st": 9,
     "Wins-2nd": 7,
+    "Disqualifications-1st": 1,
+    "Disqualifications-2nd": 1,
     "Draws": 1,
     "InvalidMovesRatio-1st": 0.06,
     "InvalidMovesRatio-2nd": 0.04,
     "TotalMoves-1st": 30,
     "TotalMoves-2nd": 25,
-    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu"
+    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Sudoku",
@@ -168,12 +198,15 @@
     "WinRatio-2nd": 0.25,
     "Wins-1st": 7,
     "Wins-2nd": 3,
+    "Disqualifications-1st": 0,
+    "Disqualifications-2nd": 1,
     "Draws": 2,
     "InvalidMovesRatio-1st": 0.03,
     "InvalidMovesRatio-2nd": 0.05,
     "TotalMoves-1st": 35,
     "TotalMoves-2nd": 30,
-    "ProviderEmail": "robert@gmail.com"
+    "ProviderEmail": "robert@gmail.com",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Dominoes",
@@ -184,12 +217,15 @@
     "WinRatio-2nd": 0.4,
     "Wins-1st": 6,
     "Wins-2nd": 5,
+    "Disqualifications-1st": 2,
+    "Disqualifications-2nd": 1,
     "Draws": 4,
     "InvalidMovesRatio-1st": 0.02,
     "InvalidMovesRatio-2nd": 0.03,
     "TotalMoves-1st": 45,
     "TotalMoves-2nd": 40,
-    "ProviderEmail": "otopsakal@floridapoly.edu"
+    "ProviderEmail": "otopsakal@floridapoly.edu",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Jenga",
@@ -200,12 +236,15 @@
     "WinRatio-2nd": 0.3,
     "Wins-1st": 8,
     "Wins-2nd": 4,
+    "Disqualifications-1st": 1,
+    "Disqualifications-2nd": 2,
     "Draws": 2,
     "InvalidMovesRatio-1st": 0.03,
     "InvalidMovesRatio-2nd": 0.06,
     "TotalMoves-1st": 35,
     "TotalMoves-2nd": 30,
-    "ProviderEmail": "jharper@floridapoly.edu, robert@gmail.com"
+    "ProviderEmail": "jharper@floridapoly.edu, robert@gmail.com",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Risk",
@@ -216,12 +255,15 @@
     "WinRatio-2nd": 0.35,
     "Wins-1st": 11,
     "Wins-2nd": 7,
+    "Disqualifications-1st": 2,
+    "Disqualifications-2nd": 0,
     "Draws": 3,
     "InvalidMovesRatio-1st": 0.04,
     "InvalidMovesRatio-2nd": 0.02,
     "TotalMoves-1st": 50,
     "TotalMoves-2nd": 45,
-    "ProviderEmail": "otopsakal@floridapoly.edu, robert@gmail.com"
+    "ProviderEmail": "otopsakal@floridapoly.edu, robert@gmail.com",
+    "SubmissionDate": "240520-175207"
   },
   {
     "GameType": "Clue",
@@ -232,11 +274,14 @@
     "WinRatio-2nd": 0.25,
     "Wins-1st": 9,
     "Wins-2nd": 5,
+    "Disqualifications-1st": 1,
+    "Disqualifications-2nd": 1,
     "Draws": 2,
     "InvalidMovesRatio-1st": 0.05,
     "InvalidMovesRatio-2nd": 0.03,
     "TotalMoves-1st": 40,
     "TotalMoves-2nd": 35,
-    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu"
+    "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu",
+    "SubmissionDate": "240520-175207"
   }
 ]
