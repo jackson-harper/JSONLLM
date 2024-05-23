@@ -16,7 +16,8 @@
     "TotalMoves-1st": 80,
     "TotalMoves-2nd": 60,
     "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu, robert@gmail.com",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207", 
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Connect Four",
@@ -35,7 +36,8 @@
     "TotalMoves-1st": 40,
     "TotalMoves-2nd": 30,
     "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207",
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Chess",
@@ -54,7 +56,8 @@
     "TotalMoves-1st": 42,
     "TotalMoves-2nd": 38,
     "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207",
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Checkers",
@@ -73,7 +76,8 @@
     "TotalMoves-1st": 45,
     "TotalMoves-2nd": 50,
     "ProviderEmail": "jharper@floridapoly.edu, robert@gmail.com",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207", 
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Go",
@@ -92,7 +96,8 @@
     "TotalMoves-1st": 25,
     "TotalMoves-2nd": 30,
     "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207", 
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Backgammon",
@@ -111,7 +116,8 @@
     "TotalMoves-1st": 55,
     "TotalMoves-2nd": 50,
     "ProviderEmail": "robert@gmail.com",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207",
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Othello",
@@ -130,7 +136,8 @@
     "TotalMoves-1st": 40,
     "TotalMoves-2nd": 45,
     "ProviderEmail": "otopsakal@floridapoly.edu",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207", 
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Scrabble",
@@ -149,7 +156,8 @@
     "TotalMoves-1st": 35,
     "TotalMoves-2nd": 40,
     "ProviderEmail": "jharper@floridapoly.edu",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207",
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Mancala",
@@ -168,7 +176,8 @@
     "TotalMoves-1st": 40,
     "TotalMoves-2nd": 35,
     "ProviderEmail": "robert@gmail.com",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207", 
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Battleship",
@@ -187,7 +196,8 @@
     "TotalMoves-1st": 30,
     "TotalMoves-2nd": 25,
     "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207", 
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Sudoku",
@@ -206,7 +216,8 @@
     "TotalMoves-1st": 35,
     "TotalMoves-2nd": 30,
     "ProviderEmail": "robert@gmail.com",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207", 
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Dominoes",
@@ -225,7 +236,8 @@
     "TotalMoves-1st": 45,
     "TotalMoves-2nd": 40,
     "ProviderEmail": "otopsakal@floridapoly.edu",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207",
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Jenga",
@@ -244,7 +256,8 @@
     "TotalMoves-1st": 35,
     "TotalMoves-2nd": 30,
     "ProviderEmail": "jharper@floridapoly.edu, robert@gmail.com",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207", 
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Risk",
@@ -263,7 +276,8 @@
     "TotalMoves-1st": 50,
     "TotalMoves-2nd": 45,
     "ProviderEmail": "otopsakal@floridapoly.edu, robert@gmail.com",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207", 
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   },
   {
     "GameType": "Clue",
@@ -282,6 +296,7 @@
     "TotalMoves-1st": 40,
     "TotalMoves-2nd": 35,
     "ProviderEmail": "otopsakal@floridapoly.edu, jharper@floridapoly.edu",
-    "SubmissionDate": "240520-175207"
+    "SubmissionDate": "240520-175207", 
+    "UUID": "018fa1af-136c-758a-99c7-7b6be583ebf4"
   }
 ]
