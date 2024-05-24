@@ -2,81 +2,81 @@
     {
         "Company": "OpenAI",
         "LLM Model": "gpt-3.5-turbo",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "OpenAI",
         "LLM Model": "gpt-4",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "OpenAI",
         "LLM Model": "gpt-4-turbo",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "OpenAI",
         "LLM Model": "gpt-4o",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Google",
         "LLM Model": "gemini-pro",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Google",
         "LLM Model": "gemini-pro-vision",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "meta.llama2-13b-chat-v1",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "meta.llama2-70b-chat-v1",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "meta.llama3-70b-instruct-v1:0",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "meta.llama3-8b-instruct-v1:0",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "anthropic.claude-v2",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "anthropic.claude-v2:1",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "anthropic.claude-3-sonnet-20240229-v1:0",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "anthropic.claude-3-haiku-20240307-v1:0",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "mistral.mistral-large-2402-v1:0",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "ai21.j2-ultra-v1",
-        "More Info": "testlink.com"
+        "More Info": "google.com"
     }
 ]
