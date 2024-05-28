@@ -2,42 +2,42 @@
     {
         "Company": "OpenAI",
         "LLM Model": "gpt-3.5-turbo",
-        "More Info": "google.com"
+        "More Info": "https://platform.openai.com/docs/models/gpt-3-5-turbo"
     },
     {
         "Company": "OpenAI",
         "LLM Model": "gpt-4",
-        "More Info": "google.com"
+        "More Info": "https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4"
     },
     {
         "Company": "OpenAI",
         "LLM Model": "gpt-4-turbo",
-        "More Info": "google.com"
+        "More Info": "https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4"
     },
     {
         "Company": "OpenAI",
         "LLM Model": "gpt-4o",
-        "More Info": "google.com"
+        "More Info": "https://platform.openai.com/docs/models/gpt-4o"
     },
     {
         "Company": "Google",
         "LLM Model": "gemini-pro",
-        "More Info": "google.com"
+        "More Info": "https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-1.5-pro-preview-0409"
     },
     {
         "Company": "Google",
         "LLM Model": "gemini-pro-vision",
-        "More Info": "google.com"
+        "More Info": "https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-pro-vision"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "meta.llama2-13b-chat-v1",
-        "More Info": "google.com"
+        "More Info": "https://llama.meta.com/llama2/"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "meta.llama2-70b-chat-v1",
-        "More Info": "google.com"
+        "More Info": "https://llama.meta.com/llama2/"
     },
     {
         "Company": "Bedrock",
