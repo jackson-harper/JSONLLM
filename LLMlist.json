@@ -42,12 +42,12 @@
     {
         "Company": "Bedrock",
         "LLM Model": "meta.llama3-70b-instruct-v1:0",
-        "More Info": "google.com"
+        "More Info": "https://llama.meta.com/llama3/"
     },
     {
         "Company": "Bedrock",
         "LLM Model": "meta.llama3-8b-instruct-v1:0",
-        "More Info": "google.com"
+        "More Info": "https://llama.meta.com/llama3/"
     },
     {
         "Company": "Bedrock",
