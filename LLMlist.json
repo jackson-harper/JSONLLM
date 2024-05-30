@@ -30,7 +30,7 @@
         "More Info": "https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-pro-vision"
     },
     {
-        "Company": "Bedrock",
+        "Company": "Meta",
         "LLM Model": "meta.llama2-13b-chat-v1",
         "More Info": "https://llama.meta.com/llama2/"
     },
