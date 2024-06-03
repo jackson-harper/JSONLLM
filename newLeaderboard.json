@@ -23,7 +23,7 @@
   {
     "GameType": "Connect Four",
     "PromptType": "list",
-    "PromptVersion": "2024-05-29",
+    "PromptVersion": "2024-05-28",
     "LLM1stPlayer": "gemini",
     "LLM2ndPlayer": "gpt4-o",
     "WinRatio-1st": 0.5,
@@ -44,7 +44,7 @@
   {
     "GameType": "Chess",
     "PromptType": "list",
-    "PromptVersion": "2024-05-29",
+    "PromptVersion": "2024-05-28",
     "LLM1stPlayer": "llama3",
     "LLM2ndPlayer": "llama2",
     "WinRatio-1st": 0.47,
@@ -65,7 +65,7 @@
   {
     "GameType": "Checkers",
     "PromptType": "illustration",
-    "PromptVersion": "2024-05-29",
+    "PromptVersion": "2024-05-27",
     "LLM1stPlayer": "bard",
     "LLM2ndPlayer": "claude",
     "WinRatio-1st": 0.6,
@@ -86,7 +86,7 @@
   {
     "GameType": "Go",
     "PromptType": "illustration",
-    "PromptVersion": "2024-05-29",
+    "PromptVersion": "2024-05-27",
     "LLM1stPlayer": "mistral",
     "LLM2ndPlayer": "gpt-4",
     "WinRatio-1st": 0.4,
@@ -107,7 +107,7 @@
   {
     "GameType": "Backgammon",
     "PromptType": "illustration",
-    "PromptVersion": "2024-05-29",
+    "PromptVersion": "2024-05-27",
     "LLM1stPlayer": "gemini",
     "LLM2ndPlayer": "llama3",
     "WinRatio-1st": 0.55,
@@ -128,7 +128,7 @@
   {
     "GameType": "Othello",
     "PromptType": "illustration",
-    "PromptVersion": "2024-05-29",
+    "PromptVersion": "2024-05-28",
     "LLM1stPlayer": "claude",
     "LLM2ndPlayer": "bard",
     "WinRatio-1st": 0.6,
@@ -149,7 +149,7 @@
   {
     "GameType": "Scrabble",
     "PromptType": "list",
-    "PromptVersion": "2024-05-29",
+    "PromptVersion": "2024-05-28",
     "LLM1stPlayer": "gpt4-o",
     "LLM2ndPlayer": "llama2",
     "WinRatio-1st": 0.7,
@@ -190,7 +190,7 @@
   },
   {
     "GameType": "Battleship",
-    "PromptType": "list",
+    "PromptType": "Image",
     "PromptVersion": "2024-05-29",
     "LLM1stPlayer": "llama2",
     "LLM2ndPlayer": "llama3",
@@ -253,7 +253,7 @@
   },
   {
     "GameType": "Jenga",
-    "PromptType": "list",
+    "PromptType": "Image",
     "PromptVersion": "2024-05-29",
     "LLM1stPlayer": "claude",
     "LLM2ndPlayer": "gemini",
@@ -295,7 +295,7 @@
   },
   {
     "GameType": "Clue",
-    "PromptType": "list",
+    "PromptType": "Image",
     "PromptVersion": "2024-05-29",
     "LLM1stPlayer": "llama2",
     "LLM2ndPlayer": "claude",
