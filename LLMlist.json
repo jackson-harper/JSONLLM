@@ -21,23 +21,18 @@
     },
     {
         "Company": "Google",
-        "LLM Model": "gemini-pro",
+        "LLM Model": "gemini 1.0 pro",
+        "More Info": "https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-pro"
+    },
+    {
+        "Company": "Google",
+        "LLM Model": "gemini 1.5 pro",
         "More Info": "https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-1.5-pro-preview-0409"
     },
     {
         "Company": "Google",
         "LLM Model": "gemini-pro-vision",
         "More Info": "https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-pro-vision"
-    },
-    {
-        "Company": "Meta",
-        "LLM Model": "meta.llama2-13b-chat-v1",
-        "More Info": "https://llama.meta.com/llama2/"
-    },
-    {
-        "Company": "Meta",
-        "LLM Model": "meta.llama2-70b-chat-v1",
-        "More Info": "https://llama.meta.com/llama2/"
     },
     {
         "Company": "Meta",
@@ -73,10 +68,5 @@
         "Company": "Mistral",
         "LLM Model": "mistral.mistral-large-2402-v1:0",
         "More Info": "https://mistral.ai/technology/#models"
-    },
-    {
-        "Company": "AI21",
-        "LLM Model": "ai21.j2-ultra-v1",
-        "More Info": "https://docs.ai21.com/docs/jurassic-2-models"
     }
 ]
